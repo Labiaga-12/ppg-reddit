@@ -1,0 +1,57 @@
+body{
+    background-image: url(1.png);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #581361;
+    
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 48px;
+    color: #501156;
+}
+
+p {
+    text-align: center;
+    color: #451045;
+    font-size: 18px;
+    max-width: 650px;
+    margin: 20px auto;
+}
+
+input{
+
+    background-color: #ffffff;
+    border: #610561;
+    padding: 5px;
+    position: relative;
+}
+
+h5{
+    text-align: center;
+    color: #571052;
+}
+
+nav a {
+    display: inline-block;
+    border: 2px solid #a399d8;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 5px;
+    text-decoration: none;
+    color: #292541;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+
+
+
+
+
+
